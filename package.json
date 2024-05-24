@@ -1,0 +1,23 @@
+{
+  "name": "bot-claim-ocean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "npx nodemon index"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "t.me/phuongpd",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui.js": "^0.54.1",
+    "axios": "^1.7.2",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "colors": "^1.4.0",
+    "uuid": "^9.0.1"
+  }
+}
