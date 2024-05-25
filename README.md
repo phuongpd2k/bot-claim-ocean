@@ -2,7 +2,7 @@
 
 Hello everyone! 👋
 
-Welcome to the Bot Claim Ocean, an advanced tool designed to help you easily claim Ocean airdrops. For each claim process i will take fee 0.0003 SUI.
+Welcome to the Bot Claim Ocean, an advanced tool designed to help you easily claim Ocean airdrops. For each claim process i will take fee 0.0005 SUI.
 This Bot will auto Claim Ocean -> auto adding SUI to ref Wallet for GAS fee -> auto transfer Ocean from ref wallet to main wallet
 
 Note: For users who have never tried it, please visit [Wave on Sui Bot](t.me/waveonsuibot/walletapp?startapp=3831437). For those using my referral, no fee will be charged. 🚀
@@ -67,15 +67,14 @@ Follow the steps below to install and run this bot on your system:
 
     ### Definition of fields:
 
-    a. sendFee: 
-    - if TRUE:  Automatically send GAS fee from MAIN wallet to REF wallets if REF wallet has less than 0.01 SUI
+    a. sendFee:
+
+    - if TRUE: Automatically send GAS fee from MAIN wallet to REF wallets if REF wallet has less than 0.01 SUI
     - if FALSE: do nothing
-    
+
     b. mainPhrases: seed phrases of the MAIN wallet (the wallet you want to focus all OCEAN on because REF wallets with 20 OCEAN or more will be sent to the MAIN wallet
-    
+
     c. refPhrases: seed phrases of ref wallets, declared in array form
-
-
 
 4.  Run with docker command
     ```bash
