@@ -2,9 +2,9 @@
 
 Hello everyone! 👋
 
-Welcome to the SuiOcean Airdrop Bot, an advanced tool designed to help you easily claim Ocean airdrops. As a form of support and also as a referral replacement.
+Welcome to the Bot Claim Ocea, an advanced tool designed to help you easily claim Ocean airdrops. For each claim process i will take fee 0.0003 SUI
 
-Note: For users who have never tried it, please visit Wave on Sui Bot. For those using my referral, no fee will be charged. 🚀
+Note: For users who have never tried it, please visit [Wave on Sui Bot](t.me/waveonsuibot/walletapp?startapp=3831437). For those using my referral, no fee will be charged. 🚀
 
 ## Installation Steps:
 
