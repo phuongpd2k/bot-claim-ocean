@@ -85,4 +85,4 @@ Follow the steps below to install and run this bot on your system:
     docker logs --follow bot-claim-ocean-app-1
     ```
 
-Good luck! If you have any questions or issues, feel free to contact me. Thank you for using the Ocean Claim Bot. 🚀
+Good luck! If you have any questions or issues, feel free to [contact me](t.me/phuongpd). Thank you for using the Ocean Claim Bot. 🚀
