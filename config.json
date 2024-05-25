@@ -1,5 +1,9 @@
 {
   "sendFee": false,
   "mainPhrase": "phr1 phr2 phr3 ... ...",
-  "refPhrases": ["kata1 kata2 kata3 ... ...", "hira1 hira2 hira3 ... ..."]
+  "refPhrases": [
+    "kata1 kata2 kata3 ... ...",
+    "hira1 hira2 hira3 ... ...",
+    "hira1 hira2 hira3 ... ..."
+  ]
 }
