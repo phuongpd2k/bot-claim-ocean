@@ -81,6 +81,7 @@ Follow the steps below to install and run this bot on your system:
     sudo docker-compose up -d --build
     ```
 5.  View logs
+
     ```bash
     docker logs --follow bot-claim-ocean-app-1
     ```
